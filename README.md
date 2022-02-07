@@ -11,4 +11,4 @@ I do not claim them to be perfect, nor are they necessarily the best or most eff
 
 Anyway, I hope they serve some purpose for whoever may stumble across them.
 
-🖖 Live long and prosper. H
+Live long and prosper. H 🖖 

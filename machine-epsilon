@@ -9,7 +9,8 @@ close all
 
 matlabeps = eps ;
 
-%% Approach 1 - Using 'for', 'if', and 'break' commands
+%% --------------------------------------------------------------------------
+% Approach 1 - Using 'for', 'if', and 'break' commands
 % We can compute macheps using a for loop with sufficient other commands to
 % stop the process when macheps gets small enough.
 
@@ -28,9 +29,9 @@ epsA = 2*epsA ;
 i = i-1 ; % And our i is
 disp('Final value of i such that (1 + epsA) > 1:')
 disp(i)
-print('dtxt', epsA
 
-%% Approach 2 - Using a 'while loop'
+%% --------------------------------------------------------------------------
+% Approach 2 - Using a 'while loop'
 % We can also compute the macheps using a while loop resulting in a much
 % cleaner code.
 
@@ -42,7 +43,8 @@ while 1 + epsB/2 ~= 1
 end
 epsB
 
-%% Approach 3 - The function f(i) required to reach eps
+%% --------------------------------------------------------------------------
+% Approach 3 - The function f(i) required to reach eps
 % We can clearly see that there is a function that depends on i (above)
 % that will generate our macheps.
 % The function is given by:
@@ -52,7 +54,8 @@ epsB
 
 epsC = 1/(2^52)
 
-%% Logical Tests
+%% --------------------------------------------------------------------------
+% Logical Tests
 % We can test all of the above using the following logical tests.
 
 % Tests for Approach 1 

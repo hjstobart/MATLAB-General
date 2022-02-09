@@ -1,4 +1,6 @@
-%% Machine Precision or Machine Epsilon
+% ----------------------------------------------------------------------
+% Machine Precision or Machine Epsilon
+% ----------------------------------------------------------------------
 
 % The machine precision is defined as the smallest number such that when
 % added to 1 results in a different number than 1.

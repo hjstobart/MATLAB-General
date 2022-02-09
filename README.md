@@ -1,5 +1,5 @@
 # MATLAB-General
-A suite of general MATLAB scripts.
+A suite of general MATLAB scripts. 
 
 Dear reader,
 

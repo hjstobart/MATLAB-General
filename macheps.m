@@ -75,11 +75,3 @@ C2 = 1 + epsC/2 ; % Should be the same as 1
 
 C1 == 1 ; % Should return 0 
 C2 == 1 ; % Should return 1 
-
-
-
-
-
-
-
-

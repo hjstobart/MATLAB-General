@@ -14,7 +14,7 @@ This is simply a repository containing a collection of useful MATLAB scripts I h
 
 I hope they provide as much help to you as they did to me. 
 
-H 🤙
+H ✌️
 
 ---
 #### End User Terms of Service:

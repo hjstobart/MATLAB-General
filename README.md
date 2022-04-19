@@ -1,5 +1,3 @@
-__|| *This repository and the code therein may be freely copied and distributed as necessary.* ||__
-
 ## Overview:
 A suite of general MATLAB scripts.
 
@@ -17,5 +15,7 @@ I hope they provide as much help to you as they did to me.
 H ✌️
 
 ---
+_This repository and the code therein may be freely copied and distributed as necessary._
+
 #### End User Terms of Service:
 Where appropriate, this repository fall under the GitHub Terms of Service. For more information, please see here: https://docs.github.com/en/site-policy/github-terms/github-terms-of-service

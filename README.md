@@ -3,7 +3,7 @@ A suite of general MATLAB scripts.
 
 ## Contents:
 - `Machine Precision`. (_Machine Epsilon_)
-- `Box-Muller method`.
+- `Indicator Function`.
 
 ## Note:
 Dear reader,

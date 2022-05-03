@@ -4,6 +4,7 @@ A suite of general MATLAB scripts.
 ## Contents:
 - `Machine Precision` (_Machine Epsilon_)
 - `Indicator Function`
+- `fprintf(...)` (_Guide_)
 
 ## Note:
 Dear reader,

@@ -2,9 +2,13 @@
 A suite of general MATLAB scripts.
 
 ## Contents:
-- `Machine Precision` (_Machine Epsilon_)
-- `Indicator Function`
-- `fprintf(...)` (_Guide_)
+- __General__
+  - `Machine Precision` (_Machine Epsilon_)
+  - `Indicator Function`
+  - `fprintf(...)` (_Guide_)
+
+- __Probability Distributions__
+  - `Exponential Distribution`
 
 ## Note:
 Dear reader,

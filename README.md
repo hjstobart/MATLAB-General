@@ -3,9 +3,10 @@ A suite of general MATLAB scripts.
 
 ## Contents:
 - __General__
-  - `Machine Precision` (_Machine Epsilon_)
-  - `Indicator Function`
+  - `Dice Rolling`
   - `fprintf(...)` (_Guide_)
+  - `Indicator Function`
+  - `Machine Precision` (_Machine Epsilon_)
 
 - __Probability Distributions__
   - `Exponential Distribution`

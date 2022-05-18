@@ -9,6 +9,7 @@ A suite of general MATLAB scripts.
   - `Machine Precision` (_Machine Epsilon_)
 
 - __Probability Distributions__
+  - `Asymmetric Double Exponential Distribution`
   - `Exponential Distribution`
 
 ## Note:

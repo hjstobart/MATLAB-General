@@ -11,6 +11,7 @@ A suite of general MATLAB scripts.
 - __Probability Distributions__
   - `Asymmetric Double Exponential Distribution`
   - `Exponential Distribution`
+  - `Laplace Distribution`
 
 ## Note:
 Dear reader,

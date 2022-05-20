@@ -12,6 +12,7 @@ A suite of general MATLAB scripts.
   - `Asymmetric Double Exponential Distribution`
   - `Exponential Distribution`
   - `Laplace Distribution`
+  - `Log-Normal Distribution`
 
 ## Note:
 Dear reader,

@@ -13,6 +13,7 @@ A suite of general MATLAB scripts.
   - `Exponential Distribution`
   - `Laplace Distribution`
   - `Log-Normal Distribution`
+  - `Non-Central Chi Squared`
 
 ## Note:
 Dear reader,

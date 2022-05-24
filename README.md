@@ -8,6 +8,7 @@ A suite of general MATLAB scripts.
   - `Hist -> Histogram` (_Guide_)
   - `Indicator Function`
   - `Machine Precision` (_Machine Epsilon_)
+  - `Monte Carlo` (_Guide_)
 
 - __Probability Distributions__
   - `Asymmetric Double Exponential Distribution`

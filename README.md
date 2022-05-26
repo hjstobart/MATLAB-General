@@ -17,6 +17,9 @@ A suite of general MATLAB scripts.
   - `Log-Normal Distribution`
   - `Non-Central Chi Squared`
 
+- __Fourier Transforms__
+  - `Exponential/Lorentzian`
+
 ## Note:
 Dear reader,
 

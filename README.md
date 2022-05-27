@@ -15,10 +15,11 @@ A suite of general MATLAB scripts.
   - `Exponential Distribution`
   - `Laplace Distribution`
   - `Log-Normal Distribution`
-  - `Non-Central Chi Squared`
+  - `Non-Central Chi Squared Distribution`
 
 - __Fourier Transforms__
   - `Exponential/Lorentzian`
+  - `Gaussian/Gaussian`
 
 ## Note:
 Dear reader,

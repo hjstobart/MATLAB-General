@@ -20,6 +20,7 @@ A suite of general MATLAB scripts.
 - __Fourier Transforms__
   - `Exponential/Lorentzian`
   - `Gaussian/Gaussian`
+  - `Rectangular Pulse/Sinc Function`
 
 ## Note:
 Dear reader,

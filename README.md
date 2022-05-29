@@ -21,6 +21,7 @@ A suite of general MATLAB scripts.
   - `Exponential/Lorentzian`
   - `Gaussian/Gaussian`
   - `Rectangular Pulse/Sinc Function`
+  - `Kou Jump Diffusion PDF/Characteristic Function`
 
 ## Note:
 Dear reader,

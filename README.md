@@ -22,6 +22,7 @@ A suite of general MATLAB scripts.
   - `Gaussian/Gaussian`
   - `Rectangular Pulse/Sinc Function`
   - `Kou Jump Diffusion PDF/Characteristic Function`
+  - `Variance Gamma PDF/Characteristic Function`
 
 ## Note:
 Dear reader,
